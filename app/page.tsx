@@ -173,7 +173,7 @@ export default function Home() {
           <p className="text-lg md:text-xl text-slate-100 leading-relaxed font-normal antialiased">
             I am an analytical and innovative{" "}
             <strong className="text-white font-semibold">
-              Computer Science & Engineering Engineer
+              Full Stack Engineer
             </strong>{" "}
             based in Dhaka. Proficient across systems development, web
             applications, data mapping, and building interactive client
